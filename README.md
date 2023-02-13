@@ -1,7 +1,6 @@
 ### Oi, eu sou a Joyce! 👋
 
-- 🔭 I’m currently working on Frontend
-- 🌱 I’m currently learning Reactjs 
+- 🔭 I’m Software Developer.
 <div align="center">
   <a href="https://github.com/joycecsilveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joycecsilveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
