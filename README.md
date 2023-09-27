@@ -1,4 +1,4 @@
-### Oi, eu sou a Joyce! 👋
+### Hi, i'm Joyce! 👋
 
 - 🔭 I’m Software Developer.
 <div align="center">
